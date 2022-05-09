@@ -1,0 +1,29 @@
+ body{
+       background-color:#EAF6F6;
+       } 
+       hr {
+       background-color: white;
+       border-style:none;
+       border-top-style:dotted;
+       border-color: grey;
+       border-width: 5px;
+       width:10%;
+       
+       }
+   h1{
+   color: #66BFBF;
+   
+   
+   }  
+     h3{
+   color: #66BFBF;
+   
+   .button2:hover {
+  background-color: #66BFBF;
+  color: #008CBA;
+}
+   }   
+   
+ img:hover {
+   background-color: gold;
+   }
